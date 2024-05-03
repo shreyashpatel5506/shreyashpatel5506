@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <style>
+      body{
+        padding:35px;
+        margin:10px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image:url('https://github.com/Ankit5125/Website/blob/main/Background.jpeg?raw=true');
+      }
+      form{
+        display: grid;
+        gap: 10px;
+        padding: 10px;
+        justify-content: space-evenly;
+        justify-items: flex-start;
+      }
+     input{
+        padding:5px;
+
+     }
+     label{
+        margin:15px;
+     }
+     div{
+        margin: 15px;
+     }
+     input:hover{
+        border-color: lightgreen;
+     }
+    </style>
+
+  </head>
+  
+  <body>
+    <script>
+      const x=document.getElementById("mobile").value;
+      let text;
+      if(isNaN(x))
+        {
+          text="input don't valid";
+        }
+        else{
+          text="OK";
+        }
+        document.getElementById("mobile").innerHTML = text;
+        
+        function change(){
+          const x= document.getElementById("name");
+          x.value = x.value.toUpperCase();
+        }
+        function change1(){
+          const x= document.getElementById("name1");
+          x.value = x.value.toUpperCase();
+        }
+    </script>
+      <form action="post">
+        <div>
+        <label>
+          name
+        </label>
+        <input type="text" placeholder="ex.Shreyash" id="name" onchange="change()" required>
+        </div>
+        <div>
+          <label>
+            surname
+          </label>
+          <input type="text" placeholder="ex.Patel" id="name1" oninput="change1()" required>
+        </div>
+        <div>
+          <label>
+            Gender
+          </label>
+          <label>male</label>
+          <input type="radio" value="male"  name="Gender">
+          <label>female</label>
+          <input type="radio" value="female" name="Gender">
+          <label>other</label>
+          <input type="radio" value="other" name="Gender">
+        </div>
+        <div>
+          <label>
+            mobile no.
+          </label>
+          <input type="tel"  id="mobile" name="mobile" maxlength="10" required>
+        </div>
+        <div>
+          <label>
+            Birth-Date
+          </label>
+          <input type="date" value="age">
+        </div>
+        <div>
+          <div>
+            <label>
+            current-job-office
+            </label><br><label>yes</label>
+            <input type="text"  placeholder="ex.Google"><br>
+            <label>
+              no 
+            </label>
+            <input type="text"  placeholder="ex.what are you doing in currently">
+            
+          </div>
+          <div>
+            <label>
+              E-mail
+            </label>
+            <input type="email" name="email" required>
+          </div>
+          <input type="submit" value="submit" name="submit">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <input type="reset" value="reset" name="reset">
+        </div>
+      </form>
+  </body>
+</html>
