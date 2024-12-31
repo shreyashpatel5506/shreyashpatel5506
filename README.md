@@ -26,7 +26,7 @@ I am a dedicated software developer specializing in both web development and emb
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyash Patel" height="30" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/shreyashpatel" target="blank">
+<a href="[https://www.leetcode.com/shreyashpatel](https://leetcode.com/u/shreyash_5506/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shreyash Patel" height="30" width="40" />
 </a>
 </p>
