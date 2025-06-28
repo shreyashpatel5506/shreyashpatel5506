@@ -11,7 +11,7 @@
 
 I am a dedicated software developer specializing in both web development and embedded systems. My passion lies in creating efficient, scalable, and user-friendly applications.
 
-- 🔧 Currently working on: [iNotebook](https://github.com/shreyashpatel5506/Inotebookproject)
+- 🔧 Currently working on: [ChatApplication](https://pulsetalk-6lrk.onrender.com/)
 - 📚 Learning: **MERN Stack Development and React Native**
 - 💡 Latest Post: **[Web Development Trends and Growth](https://www.linkedin.com/in/shreyash-patel-ba27b02a6/)**
 - 📈 Experiences:
@@ -82,8 +82,8 @@ Here are the tools and technologies I work with:
 
 ## Latest Project Highlight
 
-<i>iNotebook</i>: A note-taking application leveraging modern technologies. 
-Visit the project [here](https://github.com/shreyashpatel5506/Inotebookproject).
+<i>Pulsetalk</i>: Live Chat Application
+Visit the project [here]([https://github.com/shreyashpatel5506/Inotebookproject](https://pulsetalk-6lrk.onrender.com/)).
 
 ---
 
