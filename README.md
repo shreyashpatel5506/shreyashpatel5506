@@ -75,9 +75,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/shreyashpatel5506/shreyashpatel5506/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
