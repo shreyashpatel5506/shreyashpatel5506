@@ -1,36 +1,94 @@
-# 💫About Me :
-🔭 I’m currently working on building and enhancing my skills in Full Stack Web Development.
+<h1 align="center">Hi 👋, I'm Shreyash Patel</h1>
+<h3 align="center">Full Stack Web Developer | Open Source Enthusiast</h3>
 
-🌱 I’m currently learning advanced backend concepts and system design.
-
-👯 I’m looking to collaborate on innovative web application projects.
-
-👨‍💻 All of my projects are available at https://shreyash-azure.vercel.app/
-
-📫 How to reach me shreyashpatel5506@gmail.com
-
-⚡ Fun fact I love turning complex problems into simple, beautiful, and intuitive designs.
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyash-patel-ba27b02a6/) 
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 🏆 Open Source Contributions
-- ✅ React Projects for Beginners  
-  - Merged PR: #451  
-  - Repository: React-projects-for-beginners
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=shreyashpatel5506&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashpatel5506&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashpatel5506&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-## My Contribution snake
-<img src="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/snake.svg" alt="Snake animation" />
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=shreyashpatel5506&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyash-patel-ba27b02a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shreyashpatel5506@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shreyash-azure.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shreyashpatel5506&icon=1&color=12)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+- 🔭 Currently working on **Full Stack Web Development**
+- 🌱 Learning **advanced backend concepts & system design**
+- 👯 Looking to collaborate on **open-source & real-world projects**
+- 👨‍💻 All my projects: **https://shreyash-azure.vercel.app/**
+- 📫 Reach me at **shreyashpatel5506@gmail.com**
+- ⚡ Fun fact: I love turning **complex problems into simple & clean solutions**
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery)
+
+### 🛠 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)
+![SingleStore](https://img.shields.io/badge/SingleStore-AA00FF?style=flat&logo=singlestore)
+
+### 🧰 Tools & Others
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyashpatel5506&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashpatel5506&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashpatel5506&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=shreyashpatel5506&theme=gruvbox&margin-w=8" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shreyashpatel5506&icon=1&color=12" />
+</p>
