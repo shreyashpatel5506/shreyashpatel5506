@@ -75,7 +75,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shreyashpatel5506&icon=1&color=12" />
-</p>
