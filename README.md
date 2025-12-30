@@ -60,32 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.zcy.dev/api?username=shreyashpatel5506&show_icons=true&theme=dark&count_private=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.zcy.dev/api?username=shreyashpatel5506&show_icons=true&theme=light&count_private=true" media="(prefers-color-scheme: light)" />
-    <img height="170" src="https://github-readme-stats.zcy.dev/api?username=shreyashpatel5506&show_icons=true&count_private=true" />
-  </picture>
-
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=shreyashpatel5506&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com?user=shreyashpatel5506&theme=light" media="(prefers-color-scheme: light)" />
-    <img height="170" src="https://streak-stats.demolab.com?user=shreyashpatel5506" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.zcy.dev/api/top-langs/?username=shreyashpatel5506&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.zcy.dev/api/top-langs/?username=shreyashpatel5506&layout=compact&theme=light" media="(prefers-color-scheme: light)" />
-    <img height="170" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=shreyashpatel5506&layout=compact" />
-  </picture>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/github-snake-dark.svg">
