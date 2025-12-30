@@ -71,7 +71,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=shreyashpatel5506&theme=gruvbox&margin-w=8" />
+  <img src="https://github-trophies.vercel.app/?username=shreyashpatel5506&theme=onedark&margin-w=8" />
 </p>
 
 ---
