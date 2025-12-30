@@ -1,0 +1,32 @@
+name: Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Generate Snake SVG
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install snk
+          snk --user shreyashpatel5506 --output output/snake.svg
+
+      - name: Push SVG
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add output/snake.svg
+          git commit -m "Update snake"
+          git push
