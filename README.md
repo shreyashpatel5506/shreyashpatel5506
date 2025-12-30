@@ -27,7 +27,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashpatel5506&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashpatel5506&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ## My Contribution snake
-![Contribution snake example](https://github.com/shreyashpatel5506/shreyashpatel5506/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/snake.svg" alt="Snake animation" />
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=shreyashpatel5506&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
