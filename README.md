@@ -20,7 +20,7 @@
 - 🔭 Currently working on **Full Stack Web Development**
 - 🌱 Learning **advanced backend concepts & system design**
 - 👯 Looking to collaborate on **open-source & real-world projects**
-- 👨‍💻 All my projects: **https://shreyash-azure.vercel.app/**
+- 👨‍💻 All my projects: **https://www.shreyash5506.tech**
 - 📫 Reach me at **shreyashpatel5506@gmail.com**
 - ⚡ Fun fact: I love turning **complex problems into simple & clean solutions**
 
