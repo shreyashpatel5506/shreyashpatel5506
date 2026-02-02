@@ -60,18 +60,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shreyashpatel5506/shreyashpatel5506/output/github-snake.svg">
-</picture>
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=shreyashpatel5506&theme=onedark&margin-w=8" />
-</p>
-
----
