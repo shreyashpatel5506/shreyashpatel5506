@@ -141,4 +141,6 @@
 ---
 
 <!-- ✨ Inverted Capsule Render Footer: creates an awesome modern framed look! -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=180&section=footer&text=Thank%20You%20%20%20Visit%20Again&fontColor=ffffff&fontAlign=70&rotate=180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=180&section=footer&rotate=180"/>
+
+<h2 align="center">Thank You   Visit Again</h2>
