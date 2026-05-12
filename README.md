@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyash-patel-ba27b02a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyashpatel5506" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shreyashpatel5506@gmail.com">
