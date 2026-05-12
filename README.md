@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=200&section=header&text=Hi%20there!%20I’m%20Shreyash%20Patel&fontColor=ffffff&fontSize=38&fontAlignY=40" alt="header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=200&section=header&text=Hi%20there!%20I’m%20Shreyash%20Patel&fontColor=ffffff&fontSize=38&fontAlignY=40&width=1000" alt="header" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Building+Scalable+Web+%26+IoT+Products;Competitive+Coding+Enthusiast;Always+Learning+%F0%9F%94%A5&center=true&width=540&height=45&color=64ffda&font=Fira%20Code">
@@ -140,7 +142,6 @@
 
 ---
 
-<!-- ✨ Inverted Capsule Render Footer: creates an awesome modern framed look! -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=180&section=footer&rotate=180"/>
-
-<h2 align="center">Thank You   Visit Again</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=200&section=footer&text=Thank%20You%20·%20Visit%20Again&fontSize=30&fontColor=ffffff&fontAlignY=50&width=1000" width="100%"/>
+</p>
