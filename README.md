@@ -143,5 +143,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=200&section=footer&text=Thank%20You%20·%20Visit%20Again&fontSize=30&fontColor=ffffff&fontAlignY=50&width=1000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=200&section=footer&text=Thank%20You%20·%20Visit%20Again&fontSize=30&fontColor=ffffff&fontAlignY=75&width=1000" width="100%"/>
 </p>
